@@ -13,14 +13,14 @@ name                     : &name "Abhinav Sharma"
 description              : &description "Hi, I'm Abhinav. I love science, tech, coding, and story-telling with data. My academic interests in data science include explainable AI, causal inference, bayesian methods, etc. Hit me up if you want to geek out about astrophysics, sociology, psychology, or want to explore data science pet projects.
 
 I'm currently pursuing my MS in business analytics at McCombs school of business at the University of Texas at Austin. Prior to joining grad school, I have experience of 4+ years in real-world problem solving leveraging statistics, ML, or deep learning-based solutions as a Senior data scientist at ZS Associates. I've had experience in both productizing these solutions in an Algorithm-as-a-service setting as well as  deploying them. My projects have covered bits and pieces of dashboarding using d3 visualization, mixed-effects models, time series analysis and forecasting, recommender engines, predictive modeling, prescriptive analytics, transductive methods, point processes, metapath embeddings, etc. enabling me to get a wide breadth of the ML-verse. "
-url                      : abhinav-sharma-6167.github.io
+url                      : https://abhinav-sharma-6167.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abhinav-sharma-6167.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
