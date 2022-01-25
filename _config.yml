@@ -75,7 +75,7 @@ analytics:
 author:
   name             : "Abhinav Sharma"
   avatar           : "dp.png"
-  bio              : "Passionate about solving real-world problems using math, statistics and machine learning. Additional interests include Astrophysics and Psychology\n\n"
+  bio              : "Passionate about solving real-world problems using math, statistics and machine learning. <br> Additional interests include Astrophysics and Psychology\n\n"
   location         : "Austin, Tx"
   employer         :
   pubmed           : 
