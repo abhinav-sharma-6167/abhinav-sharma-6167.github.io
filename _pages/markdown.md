@@ -1,14 +1,13 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Projects"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-Projects 
----
+
 **Perturbation & Gradient-Based Techniques for Explainable AI**
 
 With increasing complexity in data and success of black-box deep learning models in terms of predictive power, it becomes increasingly difficult but important to be able to make sense of model predictions. We evaluate explain-ability in tensorflow models and compare stability of perturbation-based feature attribution methods such as LIME, SHAP and Counterfactual Explanations versus gradient-based methods like DeepLift, Integrated Gradients, SmoothGrad, etc.
@@ -16,6 +15,8 @@ With increasing complexity in data and success of black-box deep learning models
 [Code](https://github.com/abhinav-sharma-6167/Advanced-ML-and-XAI/tree/main/Project)
 | [Medium](https://medium.com/@abhinav_utexas/explainable-ai-e3cf209af5fc)
 | [Papers](https://github.com/abhinav-sharma-6167/Advanced-ML-and-XAI/tree/main/Research%20Papers/Explainable%20AI)
+
+---
 
 **Brand Engagement Analysis - NLP and Image analytics**
 
@@ -25,6 +26,14 @@ Key attributes are engineering by obtaining labels, presence of people, sentimen
 [Code](https://github.com/vicgpt/Unstructured-Data-Analytics/tree/main/Project)
 | [Report](https://github.com/vicgpt/Unstructured-Data-Analytics/blob/main/Project/Brand-Analytics.pdf)
 
+---
+
+**Causal Inference in distilling Halo effects from Brand perceptions**
+
+Explored survey data for 2012 United States presidential election wherein latent variables such as probable predilection towards specific candidate as well as halo effect (tendency for positive impression to spill over into opinions in other areas) posed as key modeling challenges. Structural Equation Models were formulated to statistically prove the impact and directionality of latent driver variables onto brand (candidate) preferences while also quantifying their ‘spillover effect’ into other independent driver variables.
+
+[Code](https://github.com/abhinav-sharma-6167/Causal-Inference-for-Brand-Assessment/blob/main/halo%20effect.ipynb)
+| [Report](https://github.com/abhinav-sharma-6167/Causal-Inference-for-Brand-Assessment/blob/main/Marketing%20Project%20slides%20v1.pdf)
 
 **Customer Reviews based Recommender Engine **
 
@@ -32,6 +41,7 @@ User feedback often helps discover knowledge about the product from the perspect
 
 [Code](https://github.com/vicgpt/Unstructured-Data-Analytics/blob/main/Assignment%202%20-%20Beer%20review/beer_review.ipynb)
 
+---
 
 **Luxury car market analysis from forum discussions**
 
