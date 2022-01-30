@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Portfolio"
+title                    : "Home"
 title_separator          : ""
 name                     : &name "Abhinav Sharma"
 description              : &description ""
