@@ -16,7 +16,6 @@ I love science, tech, coding, and story-telling with data. My academic interests
 
 # Work experience
 
-======
 
 **ZS Associates** : _Data Science Associate Consultant (Jul'19-Jun'21)_
   * Weekly ML-driven Dynamic physician targeting and Portfolio optimization
@@ -29,6 +28,16 @@ I love science, tech, coding, and story-telling with data. My academic interests
   * Salesforce messaging personalization
   * Marketing mix modeling and dashboarding
 
+
+---
+
+# Academic Coursework
+
+**UT Austin - Masters**
+Below repositories entail code, report and study-notes for respective coursework offered at UT Austin, MSBA
+  * [Advanced Machine Learning](https://github.com/abhinav-sharma-6167/Advanced-ML-and-XAI)
+  * [Unstructured Data Analytics](https://github.com/abhinav-sharma-6167/Unstructured-Data-Analytics)
+  * [Optimization - I & II](https://github.com/abhinav-sharma-6167/Optimization-I)
 
 
 
