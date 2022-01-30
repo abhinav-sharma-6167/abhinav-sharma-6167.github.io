@@ -16,7 +16,6 @@ I love science, tech, coding, and story-telling with data. My academic interests
 
 # Work experience
 
------
 **ZS Associates** : _Data Science Associate Consultant (Jul'19-Jun'21)_
   * Weekly ML-driven Dynamic physician targeting and Portfolio optimization
   * Patient journey feature extraction and clustering using Hawkes process and DTW 
@@ -32,7 +31,6 @@ I love science, tech, coding, and story-telling with data. My academic interests
 ---
 
 # Academic Coursework
------
 
 **UT Austin - Masters**
 Below repositories entail code, report and study-notes for respective coursework offered at UT Austin, MSBA
