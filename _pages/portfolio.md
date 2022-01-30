@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-<br><br>
+<br>
 
 **Perturbation & Gradient-Based Techniques for Explainable AI**
 
