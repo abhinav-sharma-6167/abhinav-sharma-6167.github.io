@@ -35,7 +35,7 @@ Explored survey data for 2012 United States presidential election wherein latent
 [Code](https://github.com/abhinav-sharma-6167/Causal-Inference-for-Brand-Assessment/blob/main/halo%20effect.ipynb)
 | [Report](https://github.com/abhinav-sharma-6167/Causal-Inference-for-Brand-Assessment/blob/main/Marketing%20Project%20slides%20v1.pdf)
 
-**Customer Reviews based Recommender Engine **
+**Customer Reviews based Recommender Engine**
 
 User feedback often helps discover knowledge about the product from the perspective of the consumers. Based on customer reviews of different kinds of beer, a specific beer brand is selected for each user as per the three 'attributes' they care most about. The rec engine formulates the closest match by incorporating both the sentiment score (VADER) as well as cosine similarity scores (from tf-idf vectorizers and spacy embeddings)
 
