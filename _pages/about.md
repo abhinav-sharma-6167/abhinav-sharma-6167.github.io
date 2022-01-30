@@ -31,11 +31,11 @@ I love science, tech, coding, and story-telling with data. My academic interests
 
 # Industry Projects
 
-**Southwest Airlines** : _Data Scientist Capstone (Jan'22-Present)_
+**Southwest Airlines** : _Data Scientist Capstone (Jan'22-Present)_ <br>
   Identify key drivers of airplane delays causing customer dissatisfaction and derive the 'point of no return' time-limit in terms of likelihood of customer attrition
 
 
-**General Electric** : _Student Consultant (Jan'22-Present)_
+**General Electric** : _Student Consultant (Jan'22-Present)_ <br>
 Engineer key KPIs that are good indicators of sustainability, social and environmental impact in a non-profit setting as part of Longhorn Impact Fellowship at Texas (LIFT)
 
 
