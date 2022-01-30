@@ -12,9 +12,11 @@ redirect_from:
 
 I love science, tech, coding, and story-telling with data. My academic interests in data science include explainable AI, causal inference, bayesian methods, etc.  I'm currently pursuing my MS in business analytics at McCombs school of business at the University of Texas at Austin. <br><br>Prior to joining grad school, I have experience of 4+ years in real-world problem solving leveraging statistics, ML, or deep learning-based solutions as a Senior data scientist at ZS Associates. I've had experience in both productizing these solutions in an Algorithm-as-a-service setting as well as  deploying them. My projects have covered bits and pieces of dashboarding using d3 visualization, mixed-effects models, time series analysis and forecasting, recommender engines, predictive modeling, prescriptive analytics, transductive methods, point processes, metapath embeddings, etc. enabling me to get a wide breadth of the ML-verse.<br><br> In my spare time, I enjoy astrophysics, chess, podcasts about sociology and psychology and love conversing with great company! 
 
+<br>
+
 ---
 
-<br>
+
 
 # Work experience
 
@@ -29,9 +31,9 @@ I love science, tech, coding, and story-telling with data. My academic interests
   * Salesforce messaging personalization
   * Marketing mix modeling and dashboarding
 
----
-
 <br>
+
+---
 
 
 # Industry Projects
@@ -40,10 +42,12 @@ I love science, tech, coding, and story-telling with data. My academic interests
 
 **[GE Digital](https://www.ge.com/digital)** : _Student Consultant (Jan'22-Present)_ <br>
   * Engineer key KPIs that are good indicators of sustainability, social and environmental impact in a non-profit setting as part of Longhorn Impact Fellowship at Texas (LIFT)
+ 
+
+<br>
 
 ---
 
-<br>
 
 # Academic Coursework
 **UT Austin - Masters :**
