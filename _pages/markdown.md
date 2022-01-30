@@ -7,196 +7,36 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+Projects 
+---
+**Perturbation & Gradient-Based Techniques for Explainable AI**
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+With increasing complexity in data and success of black-box deep learning models in terms of predictive power, it becomes increasingly difficult but important to be able to make sense of model predictions. We evaluate explain-ability in tensorflow models and compare stability of perturbation-based feature attribution methods such as LIME, SHAP and Counterfactual Explanations versus gradient-based methods like DeepLift, Integrated Gradients, SmoothGrad, etc.
 
-## Tips and hints
+[Code](https://github.com/abhinav-sharma-6167/Advanced-ML-and-XAI/tree/main/Project)
+| [Medium](https://medium.com/@abhinav_utexas/explainable-ai-e3cf209af5fc)
+| [Papers](https://github.com/abhinav-sharma-6167/Advanced-ML-and-XAI/tree/main/Research%20Papers/Explainable%20AI)
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+**Brand Engagement Analysis - NLP and Image analytics**
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+Crawled images and captions from Instagram posts of Nike and Adidas to study the social media engagement strategy of both companies.
+Key attributes are engineering by obtaining labels, presence of people, sentiment from images (GCP Vision API) ; prominent phrases using named entity recognition, key topics using Latent Dirichlet allocation on the captions. The number of likes and comments were regressed against all these attributes to understand the distinguishing factors of highly engaging posts.
 
-## Markdown guide
+[Code](https://github.com/vicgpt/Unstructured-Data-Analytics/tree/main/Project)
+| [Report](https://github.com/vicgpt/Unstructured-Data-Analytics/blob/main/Project/Brand-Analytics.pdf)
 
-### Header three
 
-#### Header four
+**Customer Reviews based Recommender Engine **
 
-##### Header five
+User feedback often helps discover knowledge about the product from the perspective of the consumers. Based on customer reviews of different kinds of beer, a specific beer brand is selected for each user as per the three 'attributes' they care most about. The rec engine formulates the closest match by incorporating both the sentiment score (VADER) as well as cosine similarity scores (from tf-idf vectorizers and spacy embeddings)
 
-###### Header six
+[Code](https://github.com/vicgpt/Unstructured-Data-Analytics/blob/main/Assignment%202%20-%20Beer%20review/beer_review.ipynb)
 
-## Blockquotes
 
-Single line blockquote:
+**Luxury car market analysis from forum discussions**
 
-> Quotes are cool.
+In conjunction with cluster analysis, text mining of user generated content can to help brands identify competitors as perceived by the customers. Upon scraping the comments and posts from a car discussion forum we analyzed which car makers are perceived to be similar using MDS. 
 
-## Tables
+[Code](https://github.com/vicgpt/Unstructured-Data-Analytics/blob/main/Assignment%201%20-%20Car%20Brands/Car-Brand-Text-Analytics.ipynb)
 
-### Table 1
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
