@@ -14,8 +14,10 @@ I love science, tech, coding, and story-telling with data. My academic interests
 
 ---
 
-#### Work experience
+# Work experience
+
 ======
+
 **ZS Associates** : _Data Science Associate Consultant (Jul'19-Jun'21)_
   * Weekly ML-driven Dynamic physician targeting and Portfolio optimization
   * Patient journey feature extraction and clustering using Hawkes process and DTW 
