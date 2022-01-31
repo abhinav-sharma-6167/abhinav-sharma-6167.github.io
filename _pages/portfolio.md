@@ -35,6 +35,8 @@ Explored survey data for 2012 United States presidential election wherein latent
 [Code](https://github.com/abhinav-sharma-6167/Causal-Inference-for-Brand-Assessment/blob/main/halo%20effect.ipynb)
 | [Report](https://github.com/abhinav-sharma-6167/Causal-Inference-for-Brand-Assessment/blob/main/Marketing%20Project%20slides%20v1.pdf)
 
+---
+
 **Customer Reviews based Recommender Engine**
 
 User feedback often helps discover knowledge about the product from the perspective of the consumers. Based on customer reviews of different kinds of beer, a specific beer brand is selected for each user as per the three 'attributes' they care most about. The rec engine formulates the closest match by incorporating both the sentiment score (VADER) as well as cosine similarity scores (from tf-idf vectorizers and spacy embeddings)
@@ -49,4 +51,11 @@ In conjunction with cluster analysis, text mining of user generated content can 
 
 [Code](https://github.com/vicgpt/Unstructured-Data-Analytics/blob/main/Assignment%201%20-%20Car%20Brands/Car-Brand-Text-Analytics.ipynb)
 
+---
 
+**M5 Forecasting - Kaggle**
+
+In this competition, the fifth iteration of the Makridakis Competitions, we will use hierarchical sales data from Walmart, to forecast daily sales for the next 28 days. The data, covers stores in three US States (California, Texas, and Wisconsin) and includes item level, department, product categories, and store details. In addition, it has explanatory variables such as price, promotions, day of the week, and special events. Varied boosting models leveraged as benchmarks and deep learning architectures such as RNNs/LSTMs were explored in order to study the lift in accuracy of forecasts.
+
+[Code](https://github.com/abhinav-sharma-6167/Kaggle-M5-Forecasting)
+| [Kaggle Problem Statement](https://www.kaggle.com/c/m5-forecasting-accuracy)
