@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /portfolio/
 title: "Projects"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /portfolio.html
 ---
 <br>
 
